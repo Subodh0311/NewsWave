@@ -1,0 +1,10 @@
+/* CSS Document */
+.bg-dark{
+	background-color: aqua;
+	display: flex;
+	align-content: space-around
+}
+.logo{
+	float: left
+	
+}
